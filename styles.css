@@ -1,0 +1,14 @@
+body {
+  overflow: hidden;
+  margin: 0%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: stretch;
+
+  background-image: url("/assets/images/cielo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
